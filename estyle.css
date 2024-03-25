@@ -1,0 +1,113 @@
+header-content{
+	display: flex;
+    align-items: center;
+}
+
+header-content h2 {
+    flex: 1;
+}
+
+header img{
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+	height: 50%;
+	margin-top: 40px;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+
+.container h2{
+	flex: 1;
+}
+
+h1{
+	color: black;
+	font-family: serif;
+	text-align: center;
+}
+
+h2{
+	color: black;
+	width: 50%;
+	box-sizing: border-box;
+	padding:50px;
+
+}
+
+p{
+	text-align: justify;
+	width: 20%;
+}
+
+.paragrafo-container{
+	display: flex;
+	width: 100%;
+}
+
+.paragrafo{
+	flex: 1;
+	padding: 10px;
+}
+
+.minha-tabela1{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.imagem-centralizda{
+	display: block;
+	margin: 0 auto;
+}
+
+body{
+	background-color: #466028;
+}
+
+button{
+	color: #556B2F;
+}
+
+input{
+	text-align: right;
+}
+
+.container-input{
+	text-align: center;
+	margin-left: 950px;
+}
+
+.paragrafo-esquerdo{
+    float: left;
+}
+
+.paragrafo-direito{
+	float: right;
+}
+
+.clear{
+	clear: both;
+}
+
+.imagem-direita{
+	float: right;
+}
+
+.imagem-esquerda{
+	float: left;
+}
+
+.clear{
+	clear: both;
+}
+
+.titulo-esquerdo{
+	text-align: left;
+}
+
+.titulo-direito{
+	text-align: right;
+}
